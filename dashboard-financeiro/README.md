@@ -33,11 +33,7 @@ Analisa a correlação entre duas ações (PETR4 e VALE3) através de um gráfic
 
 ## 🚀 Como Executar
 
-```bash
-pip install pandas numpy yfinance matplotlib openpyxl plotly
-python simulacao_investimento_risco.py
-python correlacao_acoes.py
-```
+As instruções completas (Google Colab) estão no [README principal do repositório](../README.md).
 
 ## 🧠 Aprendizados
 
