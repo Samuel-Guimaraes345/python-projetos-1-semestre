@@ -10,10 +10,10 @@ Dois projetos de automação de planilhas Excel usando a biblioteca `openpyxl`, 
 ## 📊 Projetos
 
 ### 1. CRUD de Alunos (`crud_alunos_excel.py`)
-Sistema de linha de comando completo para gerenciar uma planilha de alunos: **C**riar, **L**istar, **E**ditar e **A**pagar registros diretamente em um arquivo `.xlsx`, com validação de entrada e menu interativo.
+Sistema de linha de comando completo para gerenciar uma planilha de alunos: Criar, Listar, Editar e Apagar registros diretamente em um arquivo `.xlsx`, com validação de entrada e menu interativo.
 
 ### 2. Calculadora Financeira Automatizada (`calculadora_financeira_excel.py`)
-Script que cria uma planilha do zero, preenche com dados de clientes fictícios e calcula automaticamente o **Valor Futuro** de cada investimento usando a fórmula de juros compostos, salvando o resultado direto na planilha.
+Script que cria uma planilha do zero, preenche com dados de clientes fictícios e calcula automaticamente o Valor Futuro de cada investimento usando a fórmula de juros compostos, salvando o resultado direto na planilha.
 
 ## 🛠️ Tecnologias
 
