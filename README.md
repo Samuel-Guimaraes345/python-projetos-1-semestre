@@ -41,18 +41,10 @@ O objetivo deste repositório é documentar minha evolução técnica ao longo d
 
 Todos os códigos foram desenvolvidos para rodar no **Google Colab**, mas também funcionam localmente com Python instalado.
 
-**Opção 1 — Google Colab (recomendado):**
+**Google Colab (recomendado):**
 1. Acesse [Google Colab](https://colab.research.google.com/)
 2. Crie um novo notebook e cole o conteúdo do arquivo `.py` desejado em uma célula
 3. Execute com `Shift + Enter`
-
-**Opção 2 — Localmente:**
-```bash
-git clone https://github.com/SEU-USUARIO/python-projetos-1-semestre.git
-cd python-projetos-1-semestre/[pasta-do-projeto]
-pip install -r requirements.txt  # veja bibliotecas necessárias no README de cada pasta
-python nome_do_arquivo.py
-```
 
 ## 🧠 Aprendizados do 1º Semestre
 
