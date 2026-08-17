@@ -28,11 +28,7 @@ Conjunto de exercícios práticos realizados ao longo das aulas do 1º semestre,
 
 ## 🚀 Como Executar
 
-```bash
-pip install numpy matplotlib
-python fundamentos_python.py
-# ou qualquer outro arquivo da pasta
-```
+As instruções completas (Google Colab) estão no [README principal do repositório](../README.md).
 
 ## 🧠 Aprendizados
 
