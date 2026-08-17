@@ -22,11 +22,7 @@ Script que cria uma planilha do zero, preenche com dados de clientes fictícios 
 
 ## 🚀 Como Executar
 
-```bash
-pip install openpyxl
-python crud_alunos_excel.py
-python calculadora_financeira_excel.py
-```
+As instruções completas (Google Colab) estão no [README principal do repositório](../README.md).
 
 ## 🧠 Aprendizados
 
