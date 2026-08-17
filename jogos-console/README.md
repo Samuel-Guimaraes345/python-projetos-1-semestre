@@ -28,11 +28,7 @@ Simulador de apostas com 3 modalidades (Milhar, Trinca, Grupo), sorteio randômi
 
 ## 🚀 Como Executar
 
-```bash
-python jogo_do_nim.py
-python jogo_da_forca.py    # versão terminal já funciona; versão com widgets requer Google Colab
-python jogo_do_bixo.py
-```
+As instruções completas (Google Colab) estão no [README principal do repositório](../README.md).
 
 ## 🧠 Aprendizados
 
